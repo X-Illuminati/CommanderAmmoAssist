@@ -1,3 +1,8 @@
+# Notice
+Feel free to fork the project or include it in your own mods/mod-packs.
+However, no support is provided whatsoever.
+All pull requests and issues posted to this tracker will be ignored.
+
 # CommanderAmmoAssist
 Lua mod for Natural Selection 2 that augments the overhead view for the commander and displays an icon next to players who are requesting ammo/medkit.
 Available in the [steam workshop](http://steamcommunity.com/sharedfiles/filedetails/?id=201177756).
