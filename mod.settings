@@ -1,0 +1,10 @@
+name        = "Commander Ammo Assist"
+source_dir  = "source"
+output_dir  = "output"
+description = [=[When an Ammo request alert is received, a small ammo icon will be shown near the player who issued the request.
+
+This way, you will be able to tell which player in a group needs ammo.
+
+Similar behavior will occur with medpack, need order, enzyme, and myst requests.]=]
+image       = "preview.jpg"
+publish_id = "bfdba9c"
